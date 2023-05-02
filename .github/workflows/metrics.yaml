@@ -31,7 +31,7 @@ jobs:
         plugin_wakatime_user: XYCode
 
         plugin_steam: yes
-        plugin_steam_token: 8C361EA8AA901215D66E53A8B7D403F5
+        plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
         plugin_steam_games_limit: 5
         plugin_steam_recent_games_limit: 2
-        plugin_steam_user: ${{ secrets.STEAM_TOKEN }}
+        plugin_steam_user: "76561199089389989"
