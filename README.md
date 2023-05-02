@@ -4,7 +4,7 @@
 
 XYCode Kerman is my name on the Internet, not my real name. I am a student from China. This is my hometown.
 
-![](./images/Gejiu.jfif)
+![](images/Gejiu.jfif)
 
 <p style="text-align: center;">You can see my hometown at <a href="https://zh.wikipedia.org/wiki/个旧市">Wikipedia</a></p>
 
