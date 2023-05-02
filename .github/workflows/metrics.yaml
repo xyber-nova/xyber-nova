@@ -12,6 +12,8 @@ jobs:
   release:
     name: Wakatime
     runs-on: [ubuntu-latest]
+    permissions:
+      contents: write
 
     steps:
     - name: WakaTime
