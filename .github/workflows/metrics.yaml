@@ -1,11 +1,27 @@
-name: WakaTime
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.wakatime.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, activity, community, repositories, metadata
-  plugin_wakatime: yes
-  plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-  plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-  plugin_wakatime_url: https://wakapi.dev
-  plugin_wakatime_user: XYCode
+name: Write Wakatime svg
+
+on:
+  push:
+  schedule:
+    - cron: '0 20 * * *'
+    - cron: '0 2 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 14 * * *'
+
+jobs:
+  release:
+    name: Wakatime
+    runs-on: [ubuntu-latest]
+
+    steps:
+    - name: WakaTime
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.wakatime.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: header, activity, community, repositories, metadata
+        plugin_wakatime: yes
+        plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+        plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+        plugin_wakatime_url: https://wakapi.dev
+        plugin_wakatime_user: XYCode
