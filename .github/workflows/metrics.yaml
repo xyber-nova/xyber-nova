@@ -29,3 +29,8 @@ jobs:
         plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
         plugin_wakatime_url: https://wakapi.dev
         plugin_wakatime_user: XYCode
+
+        plugin_steam: yes
+        plugin_steam_token: 8C361EA8AA901215D66E53A8B7D403F5
+        plugin_steam_games_limit: 5
+        plugin_steam_recent_games_limit: 2
