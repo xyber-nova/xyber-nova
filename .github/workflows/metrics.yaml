@@ -21,7 +21,7 @@ jobs:
       with:
         filename: metrics.plugin.wakatime.svg
         token: ${{ secrets.METRICS_TOKEN }}
-        base: header, activity, community, repositories, metadata
+        base: header, wakatime, activity, community, repositories, metadata
         plugin_wakatime: yes
         plugin_wakatime_days: 30
         plugin_wakatime_limit: 6
