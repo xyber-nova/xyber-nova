@@ -22,6 +22,20 @@ jobs:
         filename: metrics.plugin.wakatime.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, wakatime, activity, community, repositories, metadata
+        
+        repositories_affiliations: 
+          - owner
+          - collaborator
+          - organization_member
+        repositories: 150
+        
+        config_display: large
+        extras_css: |
+            h2 {
+                padding-top: 25px;
+                border-top: 3px #AAA8 solid;
+            }
+        
         plugin_wakatime: yes
         plugin_wakatime_days: 3
         plugin_wakatime_limit: 6
@@ -35,6 +49,13 @@ jobs:
         plugin_steam_games_limit: 3
         plugin_steam_recent_games_limit: 3
         plugin_steam_user: "76561199089389989"
-
+        
+        plugin_lines: yes
+        plugin_people: yes
+        plugin_projects: yes
+        plugin_reactions: yes
+        plugin_stars: yes
+        plugin_topics: yes
+        plugin_traffic: yes
         plugin_isocalendar: yes
         plugin_isocalendar_duration: half-year
