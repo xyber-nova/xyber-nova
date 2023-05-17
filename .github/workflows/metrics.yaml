@@ -23,10 +23,7 @@ jobs:
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, wakatime, activity, community, repositories, metadata
         
-        repositories_affiliations: 
-          - owner
-          - collaborator
-          - organization_member
+        repositories_affiliations: [owner, collaborator, organization_member]
         repositories: 150
         
         config_display: large
