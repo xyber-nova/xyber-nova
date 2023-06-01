@@ -48,7 +48,6 @@ jobs:
         plugin_steam_user: "76561199089389989"
         
         plugin_lines: yes
-        plugin_people: yes
         plugin_projects: yes
         plugin_reactions: yes
         plugin_traffic: yes
