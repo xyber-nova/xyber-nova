@@ -51,7 +51,6 @@ jobs:
         plugin_people: yes
         plugin_projects: yes
         plugin_reactions: yes
-        plugin_stars: yes
         plugin_topics: yes
         plugin_traffic: yes
         plugin_isocalendar: yes
