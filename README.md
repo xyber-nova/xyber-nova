@@ -1,6 +1,16 @@
 # XYCode Kerman —— 你好 Hi There 👋
 
+## Develop Plan 开发计划
+
+为了方便我规划各项目的开发时间，我制定了我的开发计划。
+
+我的开发计划是一个类似于**栈**的结构，即先制定的计划先完成，后制定的计划后完成。一个项目的完成与否取决于该项目的大部分设计功能是否已经完成，项目完成后我任然将会保持对该项目的提交。
+
+1. **ItsWA (Working)**
+2. YiriMiraiOneBot (Scheduled)
+
 ## Learning Path 学习
+
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xycode-kerman" style="zoom:50%;" />
 
 <p>
