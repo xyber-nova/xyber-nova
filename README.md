@@ -7,7 +7,14 @@
 我的开发计划是一个类似于**栈**的结构，即先制定的计划先完成，后制定的计划后完成。一个项目的完成与否取决于该项目的大部分设计功能是否已经完成，项目完成后我任然将会保持对该项目的提交。
 
 1. **ItsWA (Working)**
-2. YiriMiraiOneBot (Scheduled)
+2. XYUnionAuthNeo (Scheduled)
+3. XYLogger (Scheduled)
+4. YiriMiraiOneBot (Scheduled)
+5. Minecraft Leveling Test (Scheduled)
+
+> 注：CP Editor的项目名称默认为**unknown**（这说明我在刷题）。
+
+![](./metrics.plugin.wakatime.svg)
 
 ## Learning Path 学习
 
@@ -27,10 +34,6 @@ XYCode Kerman is my name on the Internet, not my real name. I am a student from 
 ![](images/Gejiu.jfif)
 
 <p style="text-align: center;">You can see my hometown at <a href="https://zh.wikipedia.org/wiki/个旧市">Wikipedia</a></p>
-
-![](./metrics.plugin.wakatime.svg)
-
-You know why does my last name on the Internet is Kerman🤔
 
 ## 敲代码 Coding
 
