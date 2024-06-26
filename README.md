@@ -12,17 +12,6 @@ Preparing for CSP-J/GESP and **The Academic Test For The Junior High School Stud
 
 最喜欢的三款游戏是《钢铁雄心4 (TNO)》、《戴森球计划》和《饿殍：明末千里行》。 / My favorite games are *HOI4(with TNO)*/*Dyson Sphere Program* and *The Hungry Lamp*.
 
-> [!note]
-> **To Github Education Staffs**
-> 
-> In Yunnan province, ATJHSS(初中学业水平考试) and SHSEE(普通高中招生考试) are the same one.
->
-> And ATJHSS is conducted once in the eighth and ninth grades, respectively. The eighth-grade exam is only about geography and biology.
->
-> We graduated from the school only after ATTJHSS in Grade Nine finished.
->
-> So I am still a student in my school.
-
 ## Develop Plan 开发计划
 
 为了方便我规划各项目的开发时间，我制定了我的开发计划。
