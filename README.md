@@ -12,11 +12,23 @@ Preparing for CSP-J/GESP and **The Academic Test For The Junior High School Stud
 
 最喜欢的三款游戏是《钢铁雄心4 (TNO)》、《戴森球计划》和《饿殍：明末千里行》。 / My favorite games are *HOI4(with TNO)*/*Dyson Sphere Program* and *The Hungry Lamp*.
 
-## Develop Plan 开发计划
+## 爱好 / Hobbies
 
-为了方便我规划各项目的开发时间，我制定了我的开发计划。
+平时喜欢打游戏，倾向模拟类、剧情类游戏，P社战犯一枚。 / I like to play games in my spare time, leaning towards simulation and episodic games.
 
-我的开发计划是一个类似于**栈**的结构，即先制定的计划先完成，后制定的计划后完成。一个项目的完成与否取决于该项目的大部分设计功能是否已经完成，项目完成后我任然将会保持对该项目的提交。
+NeoVim、ArchLinux、LaTeX 用户。 / User of NeoVim, ArchLinux, LaTex and etc.
+
+自由软件运动支持者、参与者。 / Free software movement supporter, participant.
+
+马克思主义、民主社会主义者。 / Marxist, Democratic Socialist.
+
+主张技术与政治无关。反对在技术社区（例如 Github）谈论政治问题。 / Assert that technology has nothing to do with politics. Oppose talking about politics in technical communities (e.g. Github).
+
+## 开发计划 / Developing Plan
+
+为了方便我规划各项目的开发时间，我制定了我的开发计划。 / To make it easier for me to plan the development time for each project, I created my development plan.
+
+我的开发计划是一个类似于**栈**的结构，即先制定的计划先完成，后制定的计划后完成。一个项目的完成与否取决于该项目的大部分设计功能是否已经完成，项目完成后我任然将会保持对该项目的提交。 / My development plan is a structure similar to a **stack** in that the plans that are made first are completed first, and the plans that are made later are completed later. The completion of a project depends on the completion of most of the design features of the project, and I will still maintain submissions to the project after it is completed.
 
 1. **AuthPI (Working)**
 2. **YiriMiraiOneBot (Working)**
@@ -26,10 +38,12 @@ Preparing for CSP-J/GESP and **The Academic Test For The Junior High School Stud
 6. Minecraft Leveling Test (Scheduled)
 
 > 注：CP Editor的项目名称默认为**unknown**（这说明我在刷题）。
+>
+> Note: The CP Editor's project name defaults to **unknown** (which means I'm learning OI).
 
 ![](./metrics.plugin.wakatime.svg)
 
-## Learning Path 学习
+## 学习 / Learning Path
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xycode-kerman" style="zoom:50%;" />
 
@@ -39,22 +53,3 @@ Preparing for CSP-J/GESP and **The Academic Test For The Junior High School Stud
 </p>
 
 <div style="margin-top: 200px">
-
-## 关于我 About me
-
-XYCode Kerman is my name on the Internet, not my real name. I am a student from China. This is my hometown.
-
-You can sponsored me on https://afdian.net/a/xycode-kerman.
-
-![](images/Gejiu.jfif)
-
-<p style="text-align: center;">You can see my hometown at <a href="https://zh.wikipedia.org/wiki/个旧市">Wikipedia</a></p>
-
-## 敲代码 Coding
-
-I don't think coding is my work. I think coding is my one of hobbies, I do that because I like do that.
-
-## 学校 School
-
-My school is one of schools(maybe a "prison") in Gejiu, and it is the best school in my hometown. Can you guess it?
-
