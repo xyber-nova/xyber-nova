@@ -30,12 +30,10 @@ NeoVim、ArchLinux、LaTeX 用户。 / User of NeoVim, ArchLinux, LaTex and etc.
 
 我的开发计划是一个类似于**栈**的结构，即先制定的计划先完成，后制定的计划后完成。一个项目的完成与否取决于该项目的大部分设计功能是否已经完成，项目完成后我任然将会保持对该项目的提交。 / My development plan is a structure similar to a **stack** in that the plans that are made first are completed first, and the plans that are made later are completed later. The completion of a project depends on the completion of most of the design features of the project, and I will still maintain submissions to the project after it is completed.
 
-1. **AuthPI (Working)**
-2. **YiriMiraiOneBot (Working)**
-3. ItsWA (Scheduled)
-4. XYUnionAuthNeo (Scheduled)
-5. XYLogger (Scheduled)
-6. Minecraft Leveling Test (Scheduled)
+1. **YiriMiraiOneBot (Working)**
+2. **CMAN (Working)**
+3. AuthPI (Scheduled)
+4. ItsWA (Scheduled)
 
 > 注：CP Editor的项目名称默认为**unknown**（这说明我在刷题）。
 >
