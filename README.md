@@ -20,7 +20,7 @@ NeoVim、ArchLinux、LaTeX 用户。 / User of NeoVim, ArchLinux, LaTex and etc.
 
 自由软件运动支持者、参与者。 / Free software movement supporter, participant.
 
-马克思主义、民主社会主义者。 / Marxist, Democratic Socialist.
+马克思、列宁、毛泽东主义者。 / Marxist, Leninist, Maoist.
 
 主张技术与政治无关。反对在技术社区（例如 Github）谈论政治问题。 / Assert that technology has nothing to do with politics. Oppose talking about politics in technical communities (e.g. Github).
 
