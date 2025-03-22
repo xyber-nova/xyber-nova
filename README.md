@@ -45,8 +45,7 @@ Developing indie games with awesome teammates 🎮
 
 ## 合作邀约 Collaboration 📩
 
-📧 商务合作请发送邮件至：  
-xycode-xyc@outlook.com  
+📧 商务合作请发送邮件至主页标注的邮箱！ 
 ⚠️ 邮件标题请注明【商务合作】，否则可能被过滤！  
 *Please include "商务合作" in subject line*
 
