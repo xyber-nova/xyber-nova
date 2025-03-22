@@ -1,4 +1,4 @@
-# XYCode Kerman —— 你好 Hi There! 👋
+# Xyber Nova —— 你好 Hi There! 👋
 
 **编程爱好者 | 中学生 | 半职业 OIer**  
 Amateur Programmer | Junior High Student | Semi-pro OIer  
