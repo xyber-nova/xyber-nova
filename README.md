@@ -1,53 +1,74 @@
-# Xyber Nova —— 你好 Hi There! 👋
+# Xyber Nova —— 你好 👋 Hi There!
 
 **编程爱好者 | 中学生 | 半职业 OIer**  
-Amateur Programmer | Junior High Student | Semi-pro OIer  
+*Amateur Programmer | Junior High Student | Semi-pro OIer*
 
-🚀 **当前目标**  
-- 备战 CSP-J/GESP 认证考试  
-- 冲刺九年级中考  
-- 自学法语中 (Learning French)  
+---
 
-💡 **语言能力**  
-- 中文（主要工作语言）Chinese (Primary)  
-- 英语（基础沟通）English (Basic)  
-- 法语（入门级）Français (Beginner)  
+## 🚀 当前目标 Current Goals
+- **CSP-J/GESP 认证备考**  
+  Certification Exam Preparation
+- **九年级中考冲刺**  
+  Senior High School Entrance Exam
+- **法语自学**（新手）
+  French Learning (Beginner Level)
 
-🎮 **游戏偏好**  
-最爱的三款游戏：  
-1. 《钢铁雄心4（TNO模组）》HOI4 (The New Order)  
-2. 《戴森球计划》Dyson Sphere Program  
-3. 《Minecraft》  
-*P社战犯 + 音游爱好者 + 剧情向玩家*  
-Paradox Games Enthusiast | MUG Lover | Story-Driven Gamer  
+---
 
-💻 **技术日常**  
-"传说中用 Arch Linux + Neovim 写 Python/Rust 的 OIer 会变成小男娘" 🤔  
-*Legend says OIers coding with Arch Linux + Neovim in Python/Rust will become femboys*
+## 💡 语言能力 Language Proficiency
+- **中文** 母语水平 | Native
+- **English** 日常交流 | Daily Communication
+- **Français** 入门阶段 | Beginner
 
-🌈 **个人身份**  
-自我性别认知为男性 | Male Gender Identity (LGBTQ+ Friendly)  
+---
 
-## 技能树 Skills 🌱
+## 🎮 游戏偏好 Gaming Preferences
+**Top 3 最爱游戏**  
+1. 钢铁雄心4 (TNO模组) - HOI4: The New Order  
+2. 戴森球计划 - Dyson Sphere Program  
+3. Minecraft (模组开发者)
 
-**全栈开发方向**  
-- 精通：Python | TypeScript  
-- 擅长：Vue + TailwindCSS 前端开发  
-- 学习ing：Rust | Go | Kotlin  
-- 雷区：Java（强烈不适！）Strong aversion to Java  
+**玩家标签**  
+`P社战犯` `音游控` `剧情党`  
+*Paradox Enthusiast | MUG Lover | Story-Driven Gamer*
 
-**开发工具**  
-🧑💻 NeoVim | 🐧 Arch Linux | 📜 LaTeX/Typst
+---
 
-**游戏开发**  
-正与团队开发独立游戏中！  
-Developing indie games with awesome teammates 🎮
+## 💻 技术日常 Tech Life
+> "传说中用 Arch Linux + Neovim 写 Python/Rust 的 OIer 会变成小男娘"  
+> *Legend says OIers coding with Arch Linux + Neovim in Python/Rust will become femboys*
 
-## 合作邀约 Collaboration 📩
+**日常工具栈**  
+⌨️ NeoVim | 🐧 Arch Linux | 📜 Typst/LaTeX
 
-📧 商务合作请发送邮件至主页标注的邮箱！ 
-⚠️ 邮件标题请注明【商务合作】，否则可能被过滤！  
-*Please include "商务合作" in subject line*
+---
+
+## 🌱 技能树 Skills
+
+### 全栈开发 Full-Stack
+- 🏆 **精通** Python | TypeScript
+- 🎯 **擅长** Vue3 + Tailwind 前端架构
+- 📚 **学习中** Rust | Go | Kotlin
+- ⚡ **雷区** Java（语法过敏体质）
+
+### 游戏开发 GameDev
+**正在参与** [Iris Amidst Iron](https://github.com/Iris-Amidst-Iron) 独立游戏项目开发
+
+---
+
+## 🌈 个人身份 Identity
+自我性别认知为男性 | Male Gender Identity (LGBTQ+ Friendly)
+
+---
+
+## 🤝 合作邀约 Collaboration
+**工作**  
+Work at [Xinghao Inc](https://github.com/StellarsTech)
+
+**商务合作**  
+📧 请发送邮件至主页邮箱  
+⚠️ 标题需包含 **[商务合作]** 避免过滤  
+*Email the address on my homepage with "[Business Collaboration]" in subject*
 
 ---
 
