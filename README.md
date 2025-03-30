@@ -66,9 +66,14 @@
 Work at [Xinghao Inc](https://github.com/StellarsTech)
 
 **商务合作**  
+
 📧 请发送邮件至主页邮箱  
 ⚠️ 标题需包含 **[商务合作]** 避免过滤  
 *Email the address on my homepage with "[Business Collaboration]" in subject*
+
+如果你在使用**飞书**，可以使用下面的二维码添加我为好友：
+
+<img width="256" src="https://github.com/user-attachments/assets/d61d5f6a-987e-4bc6-83bd-fa0af140a822"/>
 
 ---
 
