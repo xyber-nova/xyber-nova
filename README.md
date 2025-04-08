@@ -24,9 +24,10 @@
 
 ## 🎮 游戏偏好 Gaming Preferences
 **Top 3 最爱游戏**  
-1. 钢铁雄心4 (TNO模组) - HOI4: The New Order  
-2. 戴森球计划 - Dyson Sphere Program  
+1. 戴森球计划 - Dyson Sphere Program
+2. Grand Theft Auto V
 3. Minecraft (模组开发者)
+4. Others: Stellaris / HOI4 / PA / KSP / CDE
 
 **玩家标签**  
 `P社战犯` `音游控` `剧情党`  
@@ -48,10 +49,10 @@
 ### 全栈开发 Full-Stack
 - 🏆 **精通** Python | TypeScript
 - 🎯 **擅长** Vue3 + Tailwind 前端架构
-- 📚 **学习中** Rust | Go | Kotlin
+- 📚 **学习中** Rust | Go | Kotlin | Flutter
 - ⚡ **雷区** Java（语法过敏体质）
 
-### 游戏开发 GameDev
+### 🎮游戏开发 GameDev
 **正在参与** [Iris Amidst Iron](https://github.com/Iris-Amidst-Iron) 独立游戏项目开发
 
 ---
@@ -74,6 +75,8 @@ Work at [Xinghao Inc](https://github.com/StellarsTech)
 如果你在使用**飞书**，可以使用下面的二维码添加我为好友：
 
 <img width="256" src="https://github.com/user-attachments/assets/03b1ce0a-e2a4-4e30-9ed2-600412775d10"/>
+
+🔑如果你的邮件中包含商业机密, 我推荐你使用加密通信, 你可以使用这个 GPG 密钥 `3680099C72CA44246501A05DEA6FC336F1464A39`.
 
 ---
 
