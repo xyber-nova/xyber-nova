@@ -1,4 +1,4 @@
-# Xyber Nova —— 你好 👋 Hi There!
+![image](https://github.com/user-attachments/assets/5f885315-9e05-491a-85fe-6ec81536311f)# Xyber Nova —— 你好 👋 Hi There!
 
 **编程爱好者 | 中学生 | 半职业 OIer**  
 *Amateur Programmer | Junior High Student | Semi-pro OIer*
@@ -73,7 +73,7 @@ Work at [Xinghao Inc](https://github.com/StellarsTech)
 
 如果你在使用**飞书**，可以使用下面的二维码添加我为好友：
 
-<img width="256" src="https://github.com/user-attachments/assets/d61d5f6a-987e-4bc6-83bd-fa0af140a822"/>
+<img width="256" src="https://github.com/user-attachments/assets/03b1ce0a-e2a4-4e30-9ed2-600412775d10"/>
 
 ---
 
