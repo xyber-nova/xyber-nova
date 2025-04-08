@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f885315-9e05-491a-85fe-6ec81536311f)# Xyber Nova —— 你好 👋 Hi There!
+# Xyber Nova —— 你好 👋 Hi There!
 
 **编程爱好者 | 中学生 | 半职业 OIer**  
 *Amateur Programmer | Junior High Student | Semi-pro OIer*
