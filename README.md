@@ -12,6 +12,8 @@
   Senior High School Entrance Exam
 - **法语自学**（新手）
   French Learning (Beginner Level)
+- **日语自学**（假名还认不全）
+  Japanese Learning (Beginner Level)
 
 ---
 
