@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 当前目标 Current Goals
-- **CSP-J/GESP 认证备考**  
+- **CSP-S/GESP 认证备考**  
   Certification Exam Preparation
-- **九年级中考冲刺**  
-  Senior High School Entrance Exam
+- **准高一新生（信息学竞赛）**  
+  Incoming High School Freshman - Focusing on Informatics Olympiad
 - **法语自学**（新手）
   French Learning (Beginner Level)
 - **日语自学**（假名还认不全）
