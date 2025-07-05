@@ -78,7 +78,7 @@ Work at [Xinghao Inc](https://github.com/StellarsTech)
 
 <img width="256" src="https://github.com/user-attachments/assets/03b1ce0a-e2a4-4e30-9ed2-600412775d10"/>
 
-🔑如果你的邮件中包含商业机密, 我推荐你使用加密通信, 你可以使用这个 GPG 密钥 `3680099C72CA44246501A05DEA6FC336F1464A39`.
+🔑如果你的邮件中包含商业机密, 我推荐你使用加密通信, 你可以使用这个 GPG 密钥 `74C526A184E4322573BD6F23986AB257F14AAE4C`.
 
 ---
 
