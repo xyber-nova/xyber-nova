@@ -1,7 +1,7 @@
 # Xyber Nova —— 你好 👋 Hi There!
 
-**编程爱好者 | 中学生 | 半职业 OIer**  
-*Amateur Programmer | Junior High Student | Semi-pro OIer*
+**编程爱好者 | 中学生 | OIer**  
+*Amateur Programmer | Junior High Student | OIer*
 
 ---
 
@@ -53,9 +53,6 @@
 - 🎯 **擅长** Vue3 + Tailwind 前端架构
 - 📚 **学习中** Rust | Go | Kotlin | Flutter
 - ⚡ **雷区** Java（语法过敏体质）
-
-### 🎮游戏开发 GameDev
-**正在参与** [Iris Amidst Iron](https://github.com/Iris-Amidst-Iron) 独立游戏项目开发
 
 ---
 
