@@ -6,10 +6,10 @@
 ---
 
 ## 🚀 当前目标 Current Goals
-- **CSP-S / NOIP 备考**  
-  Preparation for CSP-S and NOIP
 - **高一新生（信息学竞赛）**  
   Incoming High School Freshman - Focusing on Informatics Olympiad
+- **CSP-S / NOIP 备考**  
+  Preparation for CSP-S and NOIP
 - **法语自学**（新手）
   French Learning (Beginner Level)
 - **日语自学**（假名还认不全）
