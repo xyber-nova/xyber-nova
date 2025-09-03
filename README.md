@@ -1,7 +1,7 @@
 # Xyber Nova —— 你好 👋 Hi There!
 
-**编程爱好者 | 中学生 | OIer**  
-*Amateur Programmer | Junior High Student | OIer*
+**编程爱好者 | 高中生 | OIer**  
+*Amateur Programmer | Senior High Student | OIer*
 
 ---
 
