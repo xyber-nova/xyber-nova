@@ -8,8 +8,8 @@
 ## 🚀 当前目标 Current Goals
 - **高一新生（信息学竞赛）**  
   Incoming High School Freshman - Focusing on Informatics Olympiad
-- **CSP-S / NOIP 备考**  
-  Preparation for CSP-S and NOIP
+- **NOIP 备考**  
+  Preparation for National Olympiad of Informantics in Province(NOIP)
 - **法语自学**（新手）
   French Learning (Beginner Level)
 - **日语自学**（假名还认不全）
@@ -21,19 +21,6 @@
 - **中文** 母语水平 | Native
 - **English** 日常交流 | Daily Communication
 - **Français** 入门阶段 | Beginner
-
----
-
-## 🎮 游戏偏好 Gaming Preferences
-**Top 3 最爱游戏**  
-1. 戴森球计划 - Dyson Sphere Program
-2. Grand Theft Auto V
-3. Minecraft (模组开发者)
-4. Others: Stellaris / HOI4 / PA / KSP / CDE
-
-**玩家标签**  
-`P社战犯` `音游控` `剧情党`  
-*Paradox Enthusiast | MUG Lover | Story-Driven Gamer*
 
 ---
 
