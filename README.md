@@ -17,6 +17,14 @@
 
 ---
 
+## 🏆 奖项 Rewards
+- **CSP-J 2025 一等奖**
+  the First Prize of CCF Certified Software Professional Junior 2025
+- **CSP-S 2025 一等奖**
+  the First Prize of CCF Certified Software Professional Senior 2025
+
+---
+
 ## 💡 语言能力 Language Proficiency
 - **中文** 母语水平 | Native
 - **English** 日常交流 | Daily Communication
