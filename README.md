@@ -24,6 +24,8 @@ Visit it at [OIer DB](https://oier.baoshuo.dev/oier/250021).
   the First Prize of CCF Certified Software Professional Junior 2025
 - **CSP-S 2025 一等奖**  
   the First Prize of CCF Certified Software Professional Senior 2025
+- **NOIP 2025 一等奖** $^1$  
+  the First Prize of National Olympiad of Informatics in Province(NOIP) 2025
 
 ---
 
@@ -76,4 +78,4 @@ Work at [Xinghao Inc](https://github.com/StellarsTech)
 
 ---
 
-✨ *Let's build something amazing together!* ✨
+注 $^1$ : 根据省内初评成绩测算。
