@@ -18,7 +18,6 @@
 ---
 
 ## 🏆 奖项 Rewards
-Visit it at [OIer DB](https://oier.baoshuo.dev/oier/250021).
 
 - **CSP-J 2025 一等奖**  
   the First Prize of CCF Certified Software Professional Junior 2025
