@@ -77,4 +77,4 @@ Work at [Xinghao Inc](https://github.com/StellarsTech)
 
 ---
 
-注 $^1$ : 根据省内初评成绩测算。
+注 $^1$ : ~~根据省内初评成绩测算~~ 根据官方分数线测定。
