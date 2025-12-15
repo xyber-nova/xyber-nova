@@ -23,7 +23,7 @@
   the First Prize of CCF Certified Software Professional Junior 2025
 - **CSP-S 2025 一等奖**  
   the First Prize of CCF Certified Software Professional Senior 2025
-- **NOIP 2025 一等奖** $^1$  
+- **NOIP 2025 一等奖**  
   the First Prize of National Olympiad of Informatics in Province(NOIP) 2025
 
 ---
@@ -74,7 +74,3 @@ Work at [Xinghao Inc](https://github.com/StellarsTech)
 <img width="256" src="https://github.com/user-attachments/assets/03b1ce0a-e2a4-4e30-9ed2-600412775d10"/>
 
 🔑如果你的邮件中包含商业机密, 我推荐你使用加密通信, 你可以使用这个 GPG 密钥 `74C526A184E4322573BD6F23986AB257F14AAE4C`.
-
----
-
-注 $^1$ : ~~根据省内初评成绩测算~~ 根据官方分数线测定。
