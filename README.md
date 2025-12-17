@@ -8,8 +8,8 @@
 ## 🚀 当前目标 Current Goals
 - **高一新生（信息学竞赛）**  
   Incoming High School Freshman - Focusing on Informatics Olympiad
-- **NOIP 备考**  
-  Preparation for National Olympiad of Informantics in Province(NOIP)
+- **联合省选 2026 备考**  
+  Preparation for Joint Provincial Team Selection Trials 2026
 - **法语自学**（新手）
   French Learning (Beginner Level)
 - **日语自学**（假名还认不全）
