@@ -56,21 +56,3 @@
 
 ## 🌈 个人身份 Identity
 自我性别认知为男性 | Male Gender Identity (LGBTQ+ Friendly) | ICD-10/F64.1
-
----
-
-## 🤝 合作邀约 Collaboration
-**工作**  
-Work at [Xinghao Inc](https://github.com/StellarsTech)
-
-**商务合作**  
-
-📧 请发送邮件至主页邮箱  
-⚠️ 标题需包含 **[商务合作]** 避免过滤  
-*Email the address on my homepage with "[Business Collaboration]" in subject*
-
-如果你在使用**飞书**，可以使用下面的二维码添加我为好友：
-
-<img width="256" src="https://github.com/user-attachments/assets/03b1ce0a-e2a4-4e30-9ed2-600412775d10"/>
-
-🔑如果你的邮件中包含商业机密, 我推荐你使用加密通信, 你可以使用这个 GPG 密钥 `74C526A184E4322573BD6F23986AB257F14AAE4C`.
